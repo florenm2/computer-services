@@ -8613,12 +8613,12 @@ h1.block-title {
 
 .featured-list {
   list-style: none;
-  padding: 0; }
+  padding: 10px; }
   .featured-list .featured-list-icon-text {
     font-size: 16px; }
   .featured-list li {
     position: relative;
-    padding-left: 80px; }
+    padding: 10px 80px 10px 80px; }
 
 .featured-list-icon {
   position: absolute;
