@@ -17,6 +17,9 @@ nav,
 section {
   display: block; }
 
+.fields {
+  padding: 10px 0px; }
+
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
@@ -114,7 +117,8 @@ textarea {
 
 button,
 input {
-  overflow: visible; }
+  overflow: visible;
+}
 
 button,
 select {
@@ -8911,7 +8915,8 @@ img.zoom-img {
     font-size: 12px;
     font-style: normal;
     letter-spacing: .15em;
-    color: #BEC8CE;
+    color: ##ABB4B9; 
+/*    old color: #BEC8CE;*/
     text-transform: uppercase; }
   @media (min-width: 576px) {
     .pull-quote {
